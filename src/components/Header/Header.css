@@ -1,0 +1,11 @@
+.link {
+  text-decoration: none;
+  color: rgb(25, 77, 155);
+  transition: color ease-in-out 300ms;
+}
+
+.active-link {
+  text-decoration: none;
+  color: aqua;
+  transition: color ease-in-out 300ms;
+}
