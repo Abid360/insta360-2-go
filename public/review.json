@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "text": "This is a great product! I highly recommend it.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "text": "I wasn't impressed with this product.",
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "text": "It's okay, but nothing special.",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "name": "Michael",
+    "text": "I love this product, it's very useful for me.",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Emily",
+    "text": "I'm very satisfied with this product.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Jessica",
+    "text": "I am very impressed with the quality of this product.",
+    "rating": 4
+  }
+]
