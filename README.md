@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Insta360 GO 2 Review Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with tailwind [Insta360 GO 2](https://insta360-go-2.netlify.app/).
 
 ## Available Scripts
 
